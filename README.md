@@ -1,20 +1,34 @@
-# Music House
+🎵 Music House
+Music House is a dynamic full-stack music streaming application where users can explore, play, and manage songs and albums. It features a robust admin panel for managing artists, albums, users, and tracks — making it both a user-facing entertainment app and a content management platform.
 
-Music House , a Full stack music app where we can use for listening music, can add to favourite and many more . <br/>
-for a admin, we can manage users and also change the role of the user, manage all songs , manage all artists and manage all albums. <br/>
-Live Link : [EDN Music](https://artysium-edn.netlify.app/) <br/>
-Backend : https://github.com/rajnsunny/music-house-server
+🌐 Live Demo
+Frontend: Music House on Netlify
+Backend: music-house-server on GitHub
 
-## Tech Stack 
+✨ Key Features
+🎧 For Users:
+Stream music seamlessly
 
-FrontEnd: ReactJs | HTML | CSS <br/> 
-BackEnd: NodeJs | Express <br/>
-DataBase: MongoDB | Firebase <br/>
-### Host: 
-  FrontEnd: Netlify <br/>
-  BackEnd: Heroku <br/>
-  
- 
+Add songs to favorites
 
+Browse by artist, album, or language
 
+Interactive dashboard with smooth UI
 
+🛠️ For Admins:
+🔐 Role-based access control
+
+👤 Manage users and update their roles
+
+🎶 Add/update/delete songs
+
+🎤 Manage artist information
+
+💿 Create and modify albums
+
+🧰 Tech Stack
+Layer	Technology
+Frontend	ReactJS, HTML5, CSS3
+Backend	Node.js, Express.js
+Database	MongoDB, Firebase
+Hosting	Netlify (Frontend), Heroku (Backend)
